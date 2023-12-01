@@ -9,7 +9,7 @@
             "color": "#80BB1CD4",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO VIVO WEBSOCKET",
+            "name": "CONEXÃO VIVO WEBSOCKET SECURITY",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -34,11 +34,11 @@
         "name": "VIVO 1 ➜ CONFIG 1 ➜ EASY",
         "proxy": {
             "host": "192.99.151.3",
-            "port": 80
+            "port": 8080
         },
         "server": {
             "host": "192.99.151.3",
-            "port": 80
+            "port": 8080
         },
         "sorter": 1,
         "status": "ACTIVE",
