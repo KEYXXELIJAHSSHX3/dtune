@@ -151,5 +151,56 @@
         "updated_at": "2023-08-28 16:13:49",
         "url_check_user": "http://186.233.118.151:5000",
         "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": "null",
+            "username": "null",
+            "v2ray_uuid": "a219fbc9-cdeb-4f62-a927-9e8d9e7bcf6b",
+        },
+        "category": {
+            "color": "#80BB1CD4",
+            "created_at": "2023-07-24 18:41:51",
+            "id": 5467,
+            "name": "CONEXÃO VIVO GRÁTIS",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-30 17:48:50",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "[delay_split][lf]GET / HTTP/1.1[crlf][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf] [crlf]",
+            "sni": ""
+        },
+        "config_v2ray": vless://a219fbc9-cdeb-4f62-a927-9e8d9e7bcf6b@108.139.119.92:443?encryption=none&security=tls&type=ws&host=0269v5115i8kd735e6.speedup.mobi&path=/nYAWXJmy/#108.139.119.92%3A443,
+        "created_at": "2023-07-24 18:43:27",
+        "description": "Websocket Security",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://i.ibb.co/mCfrFfD/DT44ag1icq.png",
+        "id": 67091,
+        "mode": "V2RAY_VLESS",
+        "name": "VIVO  ➜ V2RAY",
+        "proxy": {
+            "host": "192.99.151.3",
+            "port": 8080
+        },
+        "server": {
+            "host": "192.99.151.3",
+            "port": 8080
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:13:49",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
     }
 ]
